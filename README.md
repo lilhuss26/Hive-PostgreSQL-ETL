@@ -1,5 +1,8 @@
 # Hive-PostgreSQL-ETL
 Warehousing data to Hive applying ETL to use PostgreSQL, and create a Superset dashboard.
+
+![Process](https://github.com/lilhuss26/Hive-PostgreSQL-ETL/blob/master/Process.png)
+
 ## Data 
 The used data is [Fifa 21 Dataset](https://www.kaggle.com/datasets/kumudini77/cleaned-fifa-21-player-dataset)       
 Data have 12 tables, only used 10.
@@ -15,4 +18,5 @@ Utilized a Python script to aplly ETL into created PostgreSQL tables schema, and
 ## Superset Dashboard
 + Connected Superset to the database from PostgreSQL 
 ![{943D587A-49B6-4F37-97D4-60800F04E67D}](https://github.com/user-attachments/assets/e51dd34f-1fac-48c7-8376-c8a93d41ad37)
+
 
